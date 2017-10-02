@@ -1,0 +1,13 @@
+﻿  winproject.cpp
+c:\users\peter king desktop\documents\spring 2017\cst320 intro to digital games\breakoutclone\winproject3\viewserver\winproject.cpp(254): warning C4005: 'TIMER1': macro redefinition
+  c:\users\peter king desktop\documents\spring 2017\cst320 intro to digital games\breakoutclone\winproject3\viewserver\winproject.cpp(63): note: see previous definition of 'TIMER1'
+c:\users\peter king desktop\documents\spring 2017\cst320 intro to digital games\breakoutclone\winproject3\viewserver\winproject.cpp(286): warning C4065: switch statement contains 'default' but no 'case' labels
+c:\users\peter king desktop\documents\spring 2017\cst320 intro to digital games\breakoutclone\winproject3\viewserver\winproject.cpp(280): warning C4101: 'hwin': unreferenced local variable
+c:\users\peter king desktop\documents\spring 2017\cst320 intro to digital games\breakoutclone\winproject3\viewserver\winproject.cpp(380): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\peter king desktop\documents\spring 2017\cst320 intro to digital games\breakoutclone\winproject3\viewserver\winproject.cpp(413): warning C4065: switch statement contains 'default' but no 'case' labels
+c:\users\peter king desktop\documents\spring 2017\cst320 intro to digital games\breakoutclone\winproject3\viewserver\winproject.cpp(423): warning C4065: switch statement contains 'default' but no 'case' labels
+c:\users\peter king desktop\documents\spring 2017\cst320 intro to digital games\breakoutclone\winproject3\viewserver\winproject.cpp(432): warning C4101: 'si': unreferenced local variable
+c:\users\peter king desktop\documents\spring 2017\cst320 intro to digital games\breakoutclone\winproject3\viewserver\winproject.cpp(431): warning C4101: 'wmEvent': unreferenced local variable
+c:\users\peter king desktop\documents\spring 2017\cst320 intro to digital games\breakoutclone\winproject3\viewserver\winproject.cpp(431): warning C4101: 'wmId': unreferenced local variable
+  viewserver.vcxproj -> C:\Users\Peter King Desktop\Documents\Spring 2017\CST320 Intro to Digital Games\breakoutclone\winproject3\Debug\winproject.exe
